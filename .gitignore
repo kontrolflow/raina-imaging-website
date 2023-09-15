@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#
+### My Additions
+#
+
+# images
+/public/img
+/public/css/images
+
+#fonts
+/public/fonts
