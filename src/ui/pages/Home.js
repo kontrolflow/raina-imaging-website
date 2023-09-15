@@ -12,6 +12,7 @@ import WhyChooseSection from '../modules/WhyChooseSection';
 import IntroVideo from '../modules/IntroVideo';
 import MeetOurTechs from '../modules/MeetOurTechs';
 import LatestNews from '../modules/LatestNews';
+import Preloader from '../modules/Preloader';
 
 function Home() {
 
@@ -31,9 +32,7 @@ function Home() {
 
     return (
         <>
-            <div className="preloader-wrap">
-                <div className="loader"></div>
-            </div>
+            <Preloader/>
 
             <Header/>
 

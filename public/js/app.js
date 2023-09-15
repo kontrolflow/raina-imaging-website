@@ -34,13 +34,9 @@
 =================================== */
 $(window).load( function() {	
     /******************** 1.1 PRELOADER ********************/
-    // will first fade out the loading animation
-	var $prewrp = $('.preloader-wrap'),
-		$loader = $( '.loader');
-		
-    $prewrp.fadeOut();
-    // will fade out the whole DIV that covers the website.
-    $loader.delay(2000).fadeOut("slow");
+    
+		// Moved to preloader.js
+
 	/******************** 1.2 MASSONARY JS ********************/
 	var $grid = $('.grid');
 		
