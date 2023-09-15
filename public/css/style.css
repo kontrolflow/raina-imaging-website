@@ -153,7 +153,7 @@ img {
   background: #ffffff;
 }
 .section-blue {
-  background: #51a9f1;
+  background: #ec4b4b;
 }
 .section-gray {
   background: #fafafa;
@@ -180,7 +180,7 @@ img {
   color: #333333;
 }
 .color-blue {
-  color: #51a9f1;
+  color: #f15151;
 }
 /* - 2-2 OVERLAY AND OFACITYS */
 .gredient-overlay {
@@ -375,7 +375,7 @@ img {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #51a9f1;
+  background-color: #dd4848;
   z-index: 99999;
   height: 100%;
   width: 100%;
@@ -837,13 +837,13 @@ a.meanmenu-reveal {
   color: #ffffff;
 }
 .single-service:nth-child(1) {
-  background: #51a9f1;
+  background: #f15151;
 }
 .single-service:nth-child(2) {
-  background: #44a3f1;
+  background: #f34a4a;
 }
 .single-service:nth-child(3) {
-  background: #389df1;
+  background: #f03434;
 }
 .hero-parallax {
   background-repeat: no-repeat;
@@ -1338,10 +1338,10 @@ html .ui-button.ui-state-disabled:active {
   margin: 0px;
 }
 .footer a {
-  color: #51a9f1;
+  color: #f15151;
 }
 .scrollup {
-  background: #51a9f1;
+  background: #f15151;
   border-radius: 2px;
   bottom: 30px;
   color: #fff;
