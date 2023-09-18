@@ -903,12 +903,12 @@ html .ui-button.ui-state-disabled:active {
   margin-top: 20px;
   border-radius: 10px;
   background: transparent;
-  color: #51a9f1;
-  border: 1px solid #51a9f1;
+  color: #BE1E2D;
+  border: 1px solid #BE1E2D;
   text-transform: uppercase;
 }
 .quick-appoinment-form .form-button input[type="submit"]:hover {
-  background: #51a9f1;
+  background: #BE1E2D;
   color: #ffffff;
 }
 .loader-img {
@@ -945,7 +945,7 @@ html .ui-button.ui-state-disabled:active {
 }
 .single-service-box:hover h6,
 .single-service-box:hover a {
-  color: #51a9f1;
+  color: #BE1E2D;
 }
 .single-service-box h6 {
   margin-bottom: 25px;
