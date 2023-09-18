@@ -1,6 +1,6 @@
 function MeetUs() {
     return(
-        <section className="best-doctors section-gray pt100 pb100">
+        <section id="meet-us" className="best-doctors section-gray pt100 pb100">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-8 col-md-offset-2">
