@@ -1,6 +1,6 @@
 function OurCoverage() {
     return(
-    <section data-stellar-background-ratio="0.5" className="hero hero-parallax pt100 pb100 section-blue"
+    <section id="our-coverage" data-stellar-background-ratio="0.5" className="hero hero-parallax pt100 pb100 section-blue"
         style={{backgroundImage: "url('https://upload.wikimedia.org/wikipedia/commons/8/88/DT_Jax_2022.jpg')"}}>
         <div className="gredient-overlay opacity-6"></div>
         <div className="container">

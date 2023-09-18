@@ -1,11 +1,11 @@
 function Services() {
     return (
-        <section className="services-section section-light pt100 pb100">
+        <section id="our-services" className="services-section section-light pt100 pb100">
         <div className="container">
             <div className="row">
                 <div className="col-md-8 col-md-offset-2">
                     <div className="section-title text-center mb40"> <img src="img/icons/icon-service-title.png" alt="" />
-                        <h2 id="our-services">Our <span className="color-blue">Services</span></h2>
+                        <h2>Our <span className="color-blue">Services</span></h2>
                         {/* <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain
                             was born and will give you a complete account of the system, and expound the actual
                             teachings</p> */}
