@@ -50,18 +50,8 @@ $(window).load( function() {
 =================================== */
 $(document).ready(function() {
 	/******************** 2.1 JQUERY MAIN MENU JS ********************/
-	$('nav#dropdown').meanmenu();
 	
-	/* Fixed main menu */
-
-	$(window).on('scroll',function() {    
-        var scroll = $(window).scrollTop();
-        if (scroll < 5) {
-            $('.header-area').removeClass('is_stuck');
-        }else{
-            $('.header-area').addClass('is_stuck');
-        }
-    });
+	// Moved to /adapters/meanmenu.js
 	
 	/******************** 2.2 STELLAR JS ********************/
 	$(window).stellar({
