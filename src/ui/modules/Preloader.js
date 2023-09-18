@@ -5,7 +5,7 @@ function Preloader() {
     useEffect(() => {
 
         const preloaderScript = document.createElement('script');
-        preloaderScript.src = 'js/preloader.js';
+        preloaderScript.src = 'js/adapters/preloader.js';
         preloaderScript.async = true;
         document.head.append(preloaderScript);
       
