@@ -7,9 +7,10 @@ function HomeSection() {
             <div className="row">
                 <div className="col-md-8 col-sm-7 intro-text">
                     <h1>Imaging You Can Trust</h1>
-                    <p>But I must explain to you how all this mistaken idea of pleasure and praising to pain was born
-                        and I will give you a the system</p> <a className="btn-intro" href="#our-services">See Our
-                        Services</a>
+                    <p>
+                        Founded in 1996, Raina Imaging bring the most trusted in mobile imaging services to your doorstep.
+                    </p> 
+                    <a className="btn-intro" href="#our-services">See Our Services</a>
                 </div>
                 <div className="col-md-4 col-sm-5">
                     <div className="quick-appoinment-form section-light">
