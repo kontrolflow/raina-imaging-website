@@ -180,39 +180,29 @@ img {
   color: #333333;
 }
 .color-blue {
-  color: #f15151;
+  color: #BE1E2D;
 }
 /* - 2-2 OVERLAY AND OFACITYS */
 .gredient-overlay {
   background: -webkit-linear-gradient(
     344deg,
-    rgb(59, 123, 214) 0%,
-    rgb(11, 195, 250) 40%,
-    rgb(59, 123, 214) 100%
+    rgba(214,59,59,1) 0%, rgba(250,11,84,1) 40%, rgba(214,66,59,1) 100%
   );
   background: -o-linear-gradient(
     344deg,
-    rgb(59, 123, 214) 0%,
-    rgb(11, 195, 250) 40%,
-    rgb(59, 123, 214) 100%
+    rgba(214,59,59,1) 0%, rgba(250,11,84,1) 40%, rgba(214,66,59,1) 100%
   );
   background: -ms-linear-gradient(
     344deg,
-    rgb(59, 123, 214) 0%,
-    rgb(11, 195, 250) 40%,
-    rgb(59, 123, 214) 100%
+    rgba(214,59,59,1) 0%, rgba(250,11,84,1) 40%, rgba(214,66,59,1) 100%
   );
   background: -moz-linear-gradient(
     344deg,
-    rgb(59, 123, 214) 0%,
-    rgb(11, 195, 250) 40%,
-    rgb(59, 123, 214) 100%
+    rgba(214,59,59,1) 0%, rgba(250,11,84,1) 40%, rgba(214,66,59,1) 100%
   );
   background: linear-gradient(
     106deg,
-    rgb(59, 123, 214) 0%,
-    rgb(11, 195, 250) 40%,
-    rgb(59, 123, 214) 100%
+    rgba(214,59,59,1) 0%, rgba(250,11,84,1) 40%, rgba(214,66,59,1) 100%
   );
   position: absolute;
   top: 0;
@@ -862,13 +852,13 @@ a.meanmenu-reveal {
 }
 .section-blue .btn-intro {
   background: #ffffff;
-  color: #51a9f1;
+  color: #BE1E2D;
   padding: 12px 40px;
   border-radius: 15px;
   text-transform: uppercase;
 }
 .section-blue .btn-intro:hover {
-  background: #51a9f1;
+  background: #BE1E2D;
   color: #ffffff;
 }
 .quick-appoinment-form {
