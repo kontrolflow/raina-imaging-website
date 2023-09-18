@@ -153,7 +153,7 @@ img {
   background: #ffffff;
 }
 .section-blue {
-  background: #ec4b4b;
+  background: #BE1E2D;
 }
 .section-gray {
   background: #fafafa;
@@ -333,14 +333,14 @@ img {
   text-transform: uppercase;
   color: #ffffff;
   padding: 15px 30px;
-  background: #51a9f1;
+  background: #BE1E2D;
   font-weight: 700;
   border: 2px solid transparent;
   box-shadow: 2.5px 4.33px 10px 0px rgba(0, 0, 0, 0.078);
 }
 .primary-btn:hover {
   background: transparent;
-  color: #51a9f1;
+  color: #BE1E2D;
   border: 2px solid #e5e6e8;
 }
 /* - 2-6 SECTION TITLES */
@@ -365,7 +365,7 @@ img {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #dd4848;
+  background-color: #BE1E2D;
   z-index: 99999;
   height: 100%;
   width: 100%;
@@ -827,13 +827,13 @@ a.meanmenu-reveal {
   color: #ffffff;
 }
 .single-service:nth-child(1) {
-  background: #f15151;
+  background: #ac2e3b;
 }
 .single-service:nth-child(2) {
-  background: #f34a4a;
+  background: #b42533;
 }
 .single-service:nth-child(3) {
-  background: #f03434;
+  background: #BE1E2D;
 }
 .hero-parallax {
   background-repeat: no-repeat;
