@@ -32,3 +32,6 @@ yarn-error.log*
 
 #fonts
 /public/fonts
+
+# Raina Imaging Exam Form
+/public/RainaImagingExamForm.pdf
