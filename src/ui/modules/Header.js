@@ -36,15 +36,16 @@ function Header() {
                             <div className="mainmenu">
                                 <nav>
                                     <ul>
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="appointment.html">Our Services</a></li>
-                                        <li><a href="appointment.html">Service Areas</a></li>
-                                        <li><a href="department.html">About Us</a></li>
-                                        <li><a href="appointment.html">Contact Us</a></li>
+                                        <li><a href="#home">Home</a></li>
+                                        <li><a href="#our-services">Our Services</a></li>
+                                        <li><a href="#our-coverage">Our Coverage</a></li>
+                                        <li><a href="#about">About</a></li>
+                                        <li><a href="#meet-us">Meet Us</a></li>
+                                        <li><a href="#contact">Contact Us</a></li>
                                         <li><a href="#">Quick Links</a>
                                             <ul className="sub-menu">
                                                 <li><a href="/RainaImagingExamForm.pdf">Order Form</a></li>
-                                                <li><a href="index-2.html">Doctor's Portal</a></li>
+                                                <li><a href="https://www.google.com">Doctor's Portal</a></li>
                                             </ul>
                                         </li>
                                         {/* <li><a href="index.html">Home</a>
@@ -66,15 +67,16 @@ function Header() {
                         <div className="mobile-menu">
                             <nav id="dropdown">
                                 <ul>
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="appointment.html">Our Services</a></li>
-                                    <li><a href="appointment.html">Service Areas</a></li>
-                                    <li><a href="department.html">About Us</a></li>
-                                    <li><a href="appointment.html">Contact Us</a></li>
+                                    <li><a href="#home">Home</a></li>
+                                    <li><a href="#our-services">Our Services</a></li>
+                                    <li><a href="#our-coverage">Our Coverage</a></li>
+                                    <li><a href="#about">About</a></li>
+                                    <li><a href="#meet-us">Meet Us</a></li>
+                                    <li><a href="#contact">Contact Us</a></li>
                                     <li><a href="#">Quick Links</a>
                                         <ul>
                                             <li><a href="/RainaImagingExamForm.pdf">Order Form</a></li>
-                                            <li><a href="index-2.html">Doctor's Portal</a></li>
+                                            <li><a href="https://www.google.com">Doctor's Portal</a></li>
                                         </ul>
                                     </li>
                                     {/* <li><a href="index.html">Home</a>
