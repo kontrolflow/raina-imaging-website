@@ -46,11 +46,11 @@ function Home() {
 
             <MeetOurTechs/>
 
-            <LatestNews/>
+            {/* <LatestNews/> */}
             
             <Contact/>
 
-            <FooterWidget/>
+            {/* <FooterWidget/> */}
 
             <Footer/>
 
