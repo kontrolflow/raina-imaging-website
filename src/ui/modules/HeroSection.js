@@ -6,10 +6,10 @@ function HeroSection() {
         <div className="container">
             <div className="row">
                 <div className="col-md-8 col-sm-7 intro-text">
-                    <h1>We have Medicare plan options for you</h1>
+                    <h1>Imaging You Can Trust</h1>
                     <p>But I must explain to you how all this mistaken idea of pleasure and praising to pain was born
                         and I will give you a the system</p> <a className="btn-intro" href="department.html">See Our
-                        Plans</a>
+                        Services</a>
                 </div>
                 <div className="col-md-4 col-sm-5">
                     <div className="quick-appoinment-form section-light">
