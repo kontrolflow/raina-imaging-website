@@ -30,7 +30,7 @@ function Header() {
             <div className="header-top">
                 <div className="container">
                     <div className="row">
-                        <div className="col-sm-3 col-xs-10 logo"> <a href="index.html"><img className="img-responsive"
+                        <div className="col-sm-3 col-xs-10 logo"> <a href="/"><img className="img-responsive"
                                     src="img/logo/logo-header-2.png" alt="logo"/></a></div>
                         <div className="mainmenu-area hidden-xs text-right col-sm-9">
                             <div className="mainmenu">
