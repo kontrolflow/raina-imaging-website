@@ -12,7 +12,7 @@ function Services() {
                     </div>
                 </div>
             </div>
-            <div className="row">
+            <div className="row row-flex">
                 <div className="col-sm-4 single-service text-center"> 
                     <img src="images/xray.jpg" alt="" />
                     {/* <img src="img/icons/icon-medical-service.png" alt="" /> */}

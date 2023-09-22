@@ -785,6 +785,12 @@ a.meanmenu-reveal {
   position: relative;
   bottom: -120px;
 }
+
+.row-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .single-service {
   padding-top: 50px;
   padding-bottom: 50px;
