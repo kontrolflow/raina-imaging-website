@@ -5,9 +5,11 @@ function OurCoverage() {
         <div className="gredient-overlay opacity-6"></div>
         <div className="container">
             <div className="row">
-                <div className="col-md-8 col-sm-7 intro-text">
+                <div className="col-md-5 col-sm-7 intro-text coverage-intro-text">
                     <h1>Our Coverage</h1>
                     <p>
+                        We cover the following counties plus as far West as Lake City and as far South as The Villages<br/>
+                        <br/>
                         <b>Jacksonville:</b><br/>
                         Duval<br/>
                         Clay<br/>
@@ -18,9 +20,10 @@ function OurCoverage() {
                     </p> 
                     <a className="btn-intro" href="#our-services">See Our Services</a>
                 </div>
-                <div className="col-md-4 col-sm-5">
+                <div className="col-md-7 col-sm-5">
                     <div className="quick-appoinment-form section-light">
                         <h6 className="text-center"> Coverage <span className="color-blue">Map</span></h6>
+                        <img src="/images/RainaCoverageArea.png"/>
                         <div id="erreomes"></div>
                         
                         <form action="tel:9049929749" id="appointmentsv2" >

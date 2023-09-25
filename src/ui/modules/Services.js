@@ -18,7 +18,7 @@ function Services() {
                     {/* <img src="img/icons/icon-medical-service.png" alt="" /> */}
                     <h6>X-Ray</h6>
                     <p>
-                        • the "latest technology in the marketplace" enabling bedside QA and immediate submission for images for quicker interpretation
+                        {/* • the "latest technology in the marketplace" enabling bedside QA and immediate submission for images for quicker interpretation
                         <br/>
                         •Images can be seen in 3-5 seconds
                         <br/>
@@ -32,7 +32,22 @@ function Services() {
                         <br/>
                         •Online access of Reports
                         <br/>
-                        •Board Certified X-Ray Technologists
+                        •Board Certified X-Ray Technologists */}
+
+                        •Mobile Imaging
+                        <br/>
+                        •Using only DR Technology
+                        <br/>
+                        •Providing 2-3 times less radiation than CR Technology (Greater than 300%)
+                        <br/>
+                        •State of the art equipment providing high quality imaging
+                        <br/>
+                        •Images can be seen in 3-5 seconds
+                        <br/>
+                        •Fast Report TAT 1-2 hours
+                        <br/>
+                        •Nationationaly Registered Technologists
+
                     </p> 
                     {/* <a className="section-service-btn" href="#">See Our
                     Services</a> */}
@@ -59,6 +74,8 @@ function Services() {
                         •Small Part Ultrasound
                         <br/>
                         •Abdominal Ultrasound
+                        <br/>
+                        •Echocardiograms
                     </p> 
 
                     {/* <a className="section-service-btn" href="#">Contact Now</a> */}
